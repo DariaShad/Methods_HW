@@ -13,10 +13,5 @@ namespace HW1_2
             Console.WriteLine(SolveTheEquation(A, B));
         }
 
-        static double SolveTheEquation(double firstNumber, double secondNumber)
-        {
-            double result = (5 * firstNumber + secondNumber * secondNumber) / (secondNumber - firstNumber);
-            return result;
-        }
     }
 }
