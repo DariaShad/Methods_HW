@@ -10,7 +10,7 @@ namespace HW1_2
             int A = Convert.ToInt32(Console.ReadLine());
             int B = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(SolveTheEquation(A, B));
+            //Console.WriteLine(SolveTheEquation(A, B));
         }
 
     }

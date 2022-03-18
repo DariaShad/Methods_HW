@@ -10,8 +10,8 @@ namespace HW1_1
             int A = Convert.ToInt32(Console.ReadLine());
             int B = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(Divide(A, B));
-            Console.WriteLine(CalculateTheRemainder(A, B));
+            //Console.WriteLine(Divide(A, B));
+            //Console.WriteLine(CalculateTheRemainder(A, B));
         }
     }
 }
