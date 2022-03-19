@@ -2,7 +2,7 @@
 
 namespace HW2_2
 {
-    class Program
+    class Definer
     {
         static void Main(string[] args)
         {

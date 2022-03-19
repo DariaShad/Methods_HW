@@ -2,7 +2,7 @@
 
 namespace HW2_3
 {
-    class Program
+    class Increaser
     {
         static void Main(string[] args)
         {

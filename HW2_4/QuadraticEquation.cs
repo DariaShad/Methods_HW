@@ -2,7 +2,7 @@
 
 namespace HW2_4
 {
-    class Program
+    class QuadraticEquation
     {
         static void Main(string[] args)
         {

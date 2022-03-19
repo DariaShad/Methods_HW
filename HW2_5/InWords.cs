@@ -2,7 +2,7 @@
 
 namespace HW2_5
 {
-    class Program
+    class InWords
     {
         static void Main(string[] args)
         {

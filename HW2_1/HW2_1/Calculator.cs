@@ -2,7 +2,7 @@
 
 namespace HW2_1
 {
-    class Program
+    class Calculator
     {
         static void Main(string[] args)
         {
